@@ -25,17 +25,17 @@
     <string name="dlg_ok">اوکے</string>
     <string name="dlg_cancel">کینسل</string>
     <string name="dlg_loc_sett_ttl">برائے مہربانی اپنے فون کی لوکیشن سروس آن کریں</string>
-    <string name="dlg_loc_sett_msg">سیٹنگز پر جانے کے لئے اوکے لکھیں</string>
+    <string name="dlg_loc_sett_msg">سیٹنگز کے لئے    Ok  دبائیں</string>
 
     <string name="act_intro_signin_heading">سائن ان</string>
     <string name="act_intro_signup_heading">سائن اپ</string>
     <string name="act_intro_forgotpass_heading">پاسورڈ بھول گئے</string>
-    <string name="act_intro_verification_heading">تصدیقی کوڈ</string>
+    <string name="act_intro_verification_heading">تصدیقی پن</string>
     <string name="act_intro_name">نام</string>
     <string name="act_intro_email">ای میل اڈریس</string>
     <string name="act_intro_phonenum">موبائل نمبر</string>
-    <string name="act_intro_password">پاسورڈ</string>
-    <string name="act_intro_cnfpassword">پاسورڈ کی تصدیق</string>
+    <string name="act_intro_password">پاس ورڈ</string>
+    <string name="act_intro_cnfpassword">پاس ورڈ کی تصدیق</string>
     <string name="act_intro_verfcode">تصدیقی کوڈ درج کریں</string>
     <string name="act_intro_signin">سائن ان</string>
     <string name="act_intro_confirm">تصدیق</string>
@@ -44,21 +44,21 @@
     <string name="act_main_cancel">کینسل</string>
     <string name="profile_name">نام</string>
     <string name="profile_email">ای میل ایڈریس</string>
-    <string name="profile_phonenum">رابطہ نمبر</string>
+    <string name="profile_phonenum">موبائل نمبر</string>
     <string name="yes">ہاں</string>
     <string name="no">نہیں</string>
-    <string name="Continue">جاری</string>
-    <string name="next">اگلا</string>
+    <string name="Continue">آگے چلیں</string>
+    <string name="next">آگے </string>
     <string name="act_intro_bt_va">ویٹرنری اسسٹنٹ</string>
     <string name="act_intro_bt_farmer">کسان</string>
     <string name="farmer_name">کسان کا نام</string>
     <string name="submit">داخل کریں</string>
-    <string name="enter_cnic">لکیر کے بغیر شناختی کارڈ</string>
+    <string name="enter_cnic"> شناختی کارڈنمبر(بغیر ڈیش کے)</string>
     <string name="cnic_number">شناختی کارڈ نمبر</string>
 
     <string name="whatsapp_mobile">واٹس ایپ  نمبر</string>
     <string name="date_of_birth">تاریخ پیدائش</string>
-    <string name="enter_name">نام لکھیں</string>
+    <string name="enter_name">اپنانام لکھیں</string>
 
 
 
@@ -83,11 +83,11 @@
     <string name="select_spices">جانوروں کی اقسام</string>
     <string name="mozah">موضع</string>
     <string name="Address">ایڈریس</string>
-    <string name="summary">خلاصہ کا جائزہ لیں</string>
+    <string name="summary">خلاصہ ملاحظہ کریں</string>
     <string name="farm_population">جانوروں کی تعددا بلحاظ فارم</string>
     <string name="population">جانوروں کی تعداد</string>
     <string name="my_profile"> میری پروفائل</string>
-    <string name="inimate_diesease">بیماری کی اطلاع</string>
+    <string name="inimate_diesease">بیماری کی اطلاع کریں</string>
     <string name="my_farm">میرا فارم</string>
     <string name="message_box">میسیج بکس</string>
     <string name="suggestion">تجویز</string>
@@ -109,80 +109,83 @@
     <string name="give_suggestions">اپنی قابل قدر تجاویز دیں</string>
     <string name="please_enter_suggestion">اپنی تجاویز درج کریں</string>
     <string name="please_enter_subject">موضوع درج کریں</string>
-    <string name="farmer_particulars">کسان کی تفصیلات</string>
-    <string name="farmer_cnic">کسان کا شناختی کارڈ نمبر</string>
+    <string name="farmer_particulars">کسان کے کوائف</string>
+    <string name="farmer_cnic">کسان کا شناختی کارڈ نمبر(بغیر ڈیش) درج کریں</string>
     <string name="enter_farmer_cnic">کسان کا شناختی کارڈ نمبر بغیر لکیر درج کریں</string>
     <string name="search_farmer">کسان تلاش کریں</string>
-    <string name="Following_issues_are_noted">درج ذیل مسائل کی نشاندہی ہوئی</string>
-    <string name="Picture_animal">آپکےبیمار جانور کی تصویر</string>
-    <string name="take_a_picture">بیمار جانور کی تصویر بھیجیں</string>
+    <string name="Following_issues_are_noted">بیماری کی علامات</string>
+    <string name="Picture_animal">بیمار جانور کی تصویر</string>
+    <string name="take_a_picture">بیمار جانور کی تصویر کھینچیں</string>
     <string name="animal_population_on_farm">فارم میں جانوروں کی تعداد</string>
-    <string name="add_search">فارم کا اندراج</string>
+    <string name="add_search">نئے فارم کا اندراج</string>
     <string name="no_sick_animal">بیمار جانوروں کی تعداد</string>
 
-    <string name="no_dead_animal">مرنے والےجانوروں کی تعداد</string>
-    <string name="total_animals">ٹوٹل جانور</string>
+    <string name="no_dead_animal">مردہ جانوروں کی تعداد</string>
+    <string name="total_animals">جانوروں کی کل تعداد</string>
     <string name="select_farm">فارم منتخب کریں</string>
-    <string name="spices">اقسام</string>
-    <string name="sign_symbtoms">جن علامات کی نشاندہی ہوئی</string>
+    <string name="spices">جانوروں کی قسم</string>
+    <string name="sign_symbtoms">بیماری کی  علامات </string>
     <string name="report">رپورٹ آئی -ڈی :</string>
     <string name="animal_disease_report">بیمارجانور کی اطلاعی رپورٹ</string>
     <string name="thanks_disease">بیماری کی اطلاع دینے کا شکریہ۔ہمارا افسر مزید معلومات کے حصول اور رہنمائی کے لئے جلد آپکے فارم پر وزٹ کرے گا-</string>
     <string name="subject">موضوع</string>
     <string name="please_add_farm">نئے فارم کا اندراج کریں.</string>
-
-    <string name="emp_particulars">ملازم کی تفصیلات</string>
+    <string name="ait">اے-آئی -ٹی</string>
+    <string name="emp_particulars">ملازم کے کوائف</string>
     <string name="add_spice">جانور کی قسم کا اندراج</string>
     <string name="your_profile">آپکی پروفائل</string>
     <string name="suggestion_history">ماضی میں دی گئی تجاویز</string>
     <string name="select_disease">بیماری منتخب کریں</string>
-    <string name="select_sign">علامات/نشانیاں  منتخب  کریں</string>
-    <string name="done">ہوگیا</string>
-    <string name="salect_a_farm_where">بیماری کی اطلاع  کا فارم منتخب  کریں </string>
-    <string name="choose_exsisting_farm">موجودہ فارم درج کریں</string>
+    <string name="select_sign">بیماری کی علامات</string>
+    <string name="done">مکمل</string>
+    <string name="salect_a_farm_where">بیمارجانوروں والا فارم منتخب  کریں </string>
+    <string name="choose_exsisting_farm"> فارم منتخب کریں</string>
     <string name="add_new_farm">نیا فارم درج کریں</string>
-    <string name="please_wait_while">ڈیٹا کی ڈاون لوڈنگ  تک انتظار کریں</string>
-    <string name="connection_avail">انٹر نیٹ کی سہولت میسر ہے</string>
-    <string name="sync_now">ملتی جلتی</string>
-    <string name="no_internet_connection">انٹر نیٹ کی سہولت نہیں ہے</string>
+    <string name="please_wait_while">ڈیٹا کی ڈاون لوڈنگ کا انتظار کریں</string>
+    <string name="connection_avail">انٹر نیٹ دستیاب ہے</string>
+    <string name="sync_now">منطبق کریں</string>
+    <string name="no_internet_connection">انٹر نیٹ عدم دستیاب</string>
     <string name="farm_name_not_null">فارم کا نام درج کریں</string>
-    <string name="farm_population_not_null">فارم میں جانوروں کی تعداددرج کریں</string>
+    <string name="farm_population_not_null">فارم میں جانوروں کی کل تعداد</string>
     <string name="farm_spices_not_null">جانورکی قسم کا انتخاب</string>
     <string name="farm_popultn">فارم میں جانوروں کی تعداد</string>
-    <string name="message_sent">میسج چلا گیا</string>
+    <string name="message_sent">میسج بھیج دیا</string>
     <string name="cnic_number_not_null">شناختی کارڈ نمبر لازمی درج کریں</string>
     <string name="enter_valid_cnic">صحیح شناختی کارڈ نمبر درج کریں</string>
-    <string name="empty_farmer_field">کسان کےکام کی قسم درج نہیں کی گئی/کسان کا خانہ خالی ہے</string>
-    <string name="empty_cnic_field">شناختی کارڈ نمبرنہیں  درج  کیا گیا/شناختی کارڈ کا خانہ خالی ہے</string>
-    <string name="empty_gender_field">جنس کا خانہ خالی ہے/جانور کی جنس منتخب نہیں کی گئی</string>
-    <string name="empty_district_field">ضلع کا خانہ خالی ہے/ضلع منتخب نہیں کیا گیا</string>
-    <string name="empty_tehsil_field">تحصیل کا خانہ خالی ہے/تحصیل منتخب نہیں کی گئی</string>
+    <string name="empty_farmer_field">کسان کا نام لازمی درج کریں</string>
+    <string name="empty_cnic_field">شناختی کارڈ نمبر لازمی درج کریں</string>
+    <string name="empty_gender_field">جنس لازمی درج کریں</string>
+    <string name="empty_district_field">ضلع لازمی درج کریں</string>
+    <string name="empty_tehsil_field">تحصیل  لازمی درج کریں</string>
     <string name="Designation">عہدہ</string>
     <string name="performance_summary">کارکردگی کا خلاصہ</string>
     <string name="disease_report">بیماری کی رپورٹ</string>
     <string name="reports">رپورٹس</string>
-    <string name="Sign_Symptoms_Noticed">جن علامات /نشانیوں کی نشاندہی ہوئی</string>
+    <string name="Sign_Symptoms_Noticed">بیماری کی علامات</string>
     <string name="frg_report_animal_population">جانوروں کی تعداد</string>
     <string name="gps_network_not_enabled">جی-پی-ایس- فعال نہیں ہے</string>
-    <string name="open_location_settings">مقام کی سیٹنگز کھولیں</string>
+    <string name="open_location_settings">لوکیشن کی سیٹنگز کھولیں</string>
     <string name="Cancel">کینسل</string>
     <string name="enter_farmer_name">فارم کا نام درج کریں</string>
-    <string name="back">پچھلا</string>
-    <string name="act_intro_enter_email">اپنا ای-میل درج کریں</string>
+    <string name="back">پیچھے</string>
+    <string name="sign_up_nt_received">او-ٹی-پی-کا ایس -ایم-ایس۔موصول نہ ہونے کی صورت میں یہاں کلک کریں</string>
 
-    <string name="btn_done">ہو گیا</string>
+    <string name="act_intro_enter_email">ای-میل ایڈریس</string>
+    <string name="act_intro_dob">تاریخ پیدائش</string>
+    <string name="use_app_as">ایپ کا مقصد(کسان /ویٹرنری اسسٹنٹ)</string>
+    <string name="btn_done">مکمل </string>
     <string name="enter_your_suggestions">اپنی تجاویز درج کریں</string>
     <string name="select_any_disease">بیماری منتخب کریں</string>
-    <string name="no_farm_exist">اس کسان کے نام سے کوئی فارم موجود نہیں ہے،برائے مہربانی پہلے اپنےفارم کااندرج کریں</string>
+    <string name="no_farm_exist">اس کسان کا  کوئی فارم موجود نہیں ہے، اپنےفارم کااندرج کریں</string>
     <string name="sick_animal_cant">بیمار جانوروں کی تعدادصفر نہیں ہو سکتی</string>
     <string name="total_animal_cant">جانوروں کی تعداد صفر نہیں ہو سکتی</string>
     <string name="total_never_less">ٹوٹل جانوروں کی تعداد ،بیمار جانوروں کی تعداد سے کم نہیں ہو سکتی</string>
     <string name="invalid_animal_count">جانوروں کی تعداد غلط درج کی گئی ہے</string>
     <string name="enter_otp_that_send">پن کوڈ درج کریں جو آپکے موبائل نمبر پر بھیجا گیا ہے</string>
     <string name="otp_sent">او-ٹی-پی-بھیج دیا گیا ہے</string>
-    <string name="enter_dob">ڈی-او-بی -درج کریں</string>
+    <string name="enter_dob">تاریخ پیدائش درج کریں</string>
 
-
+    <string name="adrs_infro_punjab">ADRS Info پنجاب</string>
 
 
 
@@ -207,8 +210,8 @@
 
 
 
-    <string name="enter_mobile_number">اپنا موبائل نمبر درج کیجئے</string>
-    <string name="enter_mobile_whatsapp">اپنا واٹس ایپ نمبر درج کریں</string>
+    <string name="enter_mobile_number">موبائل نمبر</string>
+    <string name="enter_mobile_whatsapp">واٹس ایپ  نمبر</string>
     <string name="gender">جنس</string>
     <string name="select_gender">جنس منتخب کریں</string>
     <string name="male">مرد</string>

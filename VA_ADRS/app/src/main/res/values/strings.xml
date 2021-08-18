@@ -1,7 +1,7 @@
 <resources>
 
     <!--region Application-->
-    <string name="app_name">ADRS VA</string>
+    <string name="app_name">ADRS Farmer</string>
     <string name="goole_maps_key">AIzaSyCczk1b8_C7NOm-ZXkj76y6fjBixUTV5qI</string>
 
 
@@ -69,18 +69,18 @@
     <string name="verification_code_send">We have sent a verification OTP on your mobile number.</string>
     <string name="verification_code_send_2"> Please enter the verification OTP below</string>
     <string name="compete_profile">Please complete your profile</string>
-    <string name="select_mozah">Select Mouza</string>
+    <string name="select_mozah">Select Mauzah</string>
     <string name="complete_farm">Please Complete Farm Profile</string>
     <string name="farm_name">Farm Name</string>
-    <string name="number_animal">Number of animals</string>
-    <string name="enter_no_of_animals">Enter number of animals</string>
+    <string name="number_animal">Number of total animals</string>
+    <string name="enter_no_of_animals">Enter number of total animals</string>
     <string name="enter_farm_name">Enter Farm Name</string>
     <string name="speices">Spices</string>
     <string name="population_farm">Population of Farm</string>
     <string name="add_farm">Add Farm</string>
     <string name="add_farm_please">Please add a farm</string>
     <string name="select_spices">Select Spices</string>
-    <string name="mozah">Mouza</string>
+    <string name="mozah">Mauzah</string>
     <string name="Address">Address</string>
     <string name="summary">Go to Summary</string>
     <string name="farm_population">Farm wise animal population</string>
@@ -105,15 +105,15 @@
     <string name="date">Date/Time</string>
     <string name="time">Time</string>
     <string name="discription">Description</string>
-    <string name="give_suggestions">Give your valuable suggestions</string>
+    <string name="give_suggestions">Give your suggestion</string>
     <string name="please_enter_suggestion">Please enter your suggestions</string>
     <string name="please_enter_subject">Please enter subject</string>
     <string name="farmer_particulars">Farmer Particulars</string>
     <string name="farmer_cnic">Farmer CNIC</string>
     <string name="enter_farmer_cnic">Enter Farmer\'s  CNIC without dashes</string>
     <string name="search_farmer">Search Farmer</string>
-    <string name="Following_issues_are_noted">List of following issues being noticed.</string>
-    <string name="Picture_animal">Image of your sick animal</string>
+    <string name="Following_issues_are_noted">Signs/symptoms noticed</string>
+    <string name="Picture_animal">Picture of sick animal</string>
     <string name="take_a_picture">Take picture of sick animal</string>
     <string name="animal_population_on_farm">Animal population on farm</string>
     <string name="add_search">Add a Farm</string>
@@ -123,7 +123,7 @@
     <string name="total_animals">Total Animals</string>
     <string name="select_farm">Select Farm</string>
     <string name="spices">Spices</string>
-    <string name="sign_symbtoms">Symptoms Noticed</string>
+    <string name="sign_symbtoms">Signs/Symptoms \nNoticed</string>
     <string name="report">Report ID :</string>
     <string name="animal_disease_report">Animal Disease Intimation Report</string>
     <string name="thanks_disease">Thank you for intimating the disease, our officer will visit you soon to collect more details and giving necessary guidance</string>
@@ -131,7 +131,7 @@
     <string name="please_add_farm">Please add a new farm.</string>
     <string name="adrs_infro_punjab">ADRS Info Punjab</string>
     <string name="emp_particulars">Employee Particulars</string>
-    <string name="add_spice">Add Spice</string>
+    <string name="add_spice">Add Species</string>
     <string name="your_profile">Your Profile</string>
     <string name="suggestion_history">Suggestions History</string>
     <string name="select_disease">Select Disease</string>
@@ -146,22 +146,22 @@
     <string name="no_internet_connection">No Internet Connection</string>
     <string name="farm_name_not_null">Enter farm name</string>
     <string name="farm_population_not_null">Enter farm popullation</string>
-    <string name="farm_spices_not_null">Select any spice</string>
-    <string name="farm_popultn">Farm Popullation</string>
+    <string name="farm_spices_not_null">Select a species</string>
+    <string name="farm_popultn">Farm Population</string>
     <string name="message_sent">Message Sent</string>
-    <string name="cnic_number_not_null">CNIC must not be empty</string>
+    <string name="cnic_number_not_null">CNIC must be provided</string>
     <string name="enter_valid_cnic">Enter valid CNIC</string>
-    <string name="empty_farmer_field">Empty farmer field</string>
-    <string name="empty_cnic_field">Empty CNIC field</string>
-    <string name="empty_gender_field">Empty gender field</string>
-    <string name="empty_district_field">Empty district field</string>
-    <string name="empty_tehsil_field">Empty tehsil field</string>
+    <string name="empty_farmer_field">Farmer name must be provided</string>
+    <string name="empty_cnic_field">CNIC must be provided</string>
+    <string name="empty_gender_field">Gender must be provided</string>
+    <string name="empty_district_field">District must be selected</string>
+    <string name="empty_tehsil_field">Tehsil must be selected</string>
     <string name="Designation">Designation</string>
     <string name="performance_summary">Performance Summary</string>
     <string name="disease_report">Disease Reported</string>
     <string name="reports">Reports</string>
     <string name="Sign_Symptoms_Noticed">Sign/ Symptoms Noticed</string>
-    <string name="frg_report_animal_population">Animal Population</string>
+    <string name="frg_report_animal_population">Animal \nPopulation</string>
     <string name="gps_network_not_enabled">GPS not enabled</string>
     <string name="open_location_settings">Open Location settings</string>
     <string name="Cancel">Cancel</string>
@@ -184,5 +184,11 @@
     <string name="enter_your_last_otp_code">Enter your last OTP code</string>
     <string name="enter_otp__old">OTP not matched</string>
     <string name="resend_otp">Resend OTP</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="editFarm">Edit Farm</string>
+    <string name="add_update_spices">Add/Update Spices</string>
+    <string name="please_edit_your">Please edit your farm</string>
+    <string name="are_sure_logout">Are you sure to logout?</string>
 
 </resources>

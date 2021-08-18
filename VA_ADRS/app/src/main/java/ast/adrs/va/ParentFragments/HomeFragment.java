@@ -3,8 +3,11 @@ package ast.adrs.va.ParentFragments;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Base64;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -35,6 +38,7 @@ import ast.adrs.va.MainActivity;
 import ast.adrs.va.MyApplication;
 import ast.adrs.va.R;
 import ast.adrs.va.Utils.AppConstt;
+import ast.adrs.va.Utils.CircleImageView;
 import ast.adrs.va.Utils.CustomAlertConfirmationInterface;
 import ast.adrs.va.Utils.CustomAlertDialog;
 import ast.adrs.va.Utils.IBadgeUpdateListener;
@@ -52,6 +56,8 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     private Dialog progressDialog;
 
     private RelativeLayout rlSwitchLang, rlContinue;
+    CircleImageView civFarmerImv;
+
     public HomeFragment() {
     }
 
@@ -82,7 +88,11 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
                     + "\nT: " + AppConfig.getInstance().mUserData.getTehsil().trim());
             llMyfarm.setVisibility(View.GONE);
         }
-
+        if (!AppConfig.getInstance().mUserData.getEncorededImage().isEmpty()) {
+            byte[] decodedString = Base64.decode(AppConfig.getInstance().mUserData.getEncorededImage(), Base64.DEFAULT);
+            Bitmap decodedByte = BitmapFactory.decodeByteArray(decodedString, 0, decodedString.length);
+            civFarmerImv.setImageBitmap(decodedByte);
+        }
 
         return frg;
     }
@@ -125,6 +135,8 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
     }
 
     private void bindViews(View frg) {
+        civFarmerImv = frg.findViewById(R.id.frg_complete_profile_imv_profile);
+
 
         imv_logo = frg.findViewById(R.id.act_intro_rl_toolbar_logo);
         llSuggestion = frg.findViewById(R.id.frg_home_llSuggestion);
@@ -189,6 +201,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
                 break;
         }
     }
+
     private void switchLang() {
         Log.d("Locale", "mLanguage: " + AppConfig.getInstance().mLanguage);
 

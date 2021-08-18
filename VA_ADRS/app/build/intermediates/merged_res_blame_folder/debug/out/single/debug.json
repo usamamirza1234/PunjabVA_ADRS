@@ -32,12 +32,12 @@
         "source": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\src\\main\\res\\drawable\\shp_rect_rounde.xml"
     },
     {
-        "merged": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
-        "source": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
-    },
-    {
         "merged": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_disease.xml.flat",
         "source": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\src\\main\\res\\layout\\fragment_disease.xml"
+    },
+    {
+        "merged": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
     },
     {
         "merged": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_dropdown_on.png.flat",

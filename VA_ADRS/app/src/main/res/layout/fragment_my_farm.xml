@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/thm_gray_bg"
+    android:clickable="true">
+
+
+    <com.dd.ShadowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:sl_cornerRadius="10dp"
+        app:sl_dx="0dp"
+        app:sl_dy="0dp"
+        app:sl_shadowColor="@color/thm_shadow"
+        app:sl_shadowRadius="12dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shp_rect_rounded_white_card"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/frg_varification_va_txv_txv_otp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:padding="10dp"
+                    android:paddingTop="@dimen/textview_font_padding_top"
+                    android:paddingBottom="@dimen/textview_font_padding_top"
+                    android:text="@string/animal_population"
+                    android:textAlignment="center"
+                    android:textColor="@color/text_gray_light"
+                    android:textSize="@dimen/fontsize_small"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/frg_complete_profile_rcv_populatin"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:clipToPadding="false"
+                        android:divider="@null"
+                        android:horizontalSpacing="7dp"
+                        android:numColumns="2"
+                        android:paddingBottom="10dp"
+                        android:scrollbars="none"
+                        android:verticalSpacing="7dp"
+                        android:visibility="visible" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </com.dd.ShadowLayout>
+
+
+</RelativeLayout>

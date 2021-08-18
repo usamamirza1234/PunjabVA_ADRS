@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/layview"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divider_height"
+            android:background="@color/gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:weightSum="100">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7">
+
+
+                <TextView
+                    android:id="@+id/lay_survy_item_txv_item"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerInParent="true"
+                    android:includeFontPadding="false"
+                    android:paddingStart="5dp"
+                    android:text="123"
+                    android:textColor="@color/thm_blue_dark1"
+                    android:textSize="@dimen/fontsize_tiny" />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="90">
+
+
+                <TextView
+                    android:id="@+id/lay_survy_item_txv_option"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:ellipsize="end"
+                    android:gravity="start"
+                    android:includeFontPadding="false"
+                    android:maxLines="2"
+                    android:paddingStart="3dp"
+                    android:paddingEnd="3dp"
+                    android:text="dsadas"
+                    android:textColor="@color/thm_blue_dark1"
+                    android:textSize="@dimen/fontsize_tiny" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

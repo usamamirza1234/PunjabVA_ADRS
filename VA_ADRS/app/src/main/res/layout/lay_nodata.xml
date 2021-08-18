@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingEnd="20dp"
+    android:paddingStart="20dp">
+
+    <ImageView
+        android:id="@+id/nodata_imv_icon"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+
+        android:visibility="gone" />
+
+
+    <TextView
+        android:id="@+id/nodata_txv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:paddingBottom="@dimen/textview_font_padding"
+        android:paddingTop="@dimen/textview_font_padding"
+        android:text="Network problems"
+        android:textColor="@color/thm_text_placehodler"
+        android:textSize="@dimen/fontsize_medium"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/nodata_txv_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:paddingBottom="@dimen/textview_font_padding"
+        android:paddingTop="@dimen/textview_font_padding"
+        android:text="Please Retry"
+        android:textColor="@color/thm_text_placehodler"
+        android:textSize="@dimen/fontsize_normal"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</LinearLayout>

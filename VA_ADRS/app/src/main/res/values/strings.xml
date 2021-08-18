@@ -1,7 +1,7 @@
 <resources>
 
     <!--region Application-->
-    <string name="app_name">ADRS Farmer</string>
+    <string name="app_name">ADRS VA</string>
     <string name="goole_maps_key">AIzaSyCczk1b8_C7NOm-ZXkj76y6fjBixUTV5qI</string>
 
 

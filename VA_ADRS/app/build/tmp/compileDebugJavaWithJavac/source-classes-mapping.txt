@@ -1,0 +1,509 @@
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Get_All_Mozah.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Mozah
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Mozah$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Mozah$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Mozah$ResponseModel$Result
+ast/adrs/va/IntimateDiseaseAuxiliaries/DModel_FarmerAnimalIntimateDisease.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.DModel_FarmerAnimalIntimateDisease
+ast/adrs/va/IntroAuxiliaries/DModelUser.java
+ ast.adrs.va.IntroAuxiliaries.DModelUser
+ast/adrs/va/Utils/TouchImageView.java
+ ast.adrs.va.Utils.TouchImageView
+ ast.adrs.va.Utils.TouchImageView$1
+ ast.adrs.va.Utils.TouchImageView$CompatScroller
+ ast.adrs.va.Utils.TouchImageView$DoubleTapZoom
+ ast.adrs.va.Utils.TouchImageView$Fling
+ ast.adrs.va.Utils.TouchImageView$GestureListener
+ ast.adrs.va.Utils.TouchImageView$OnTouchImageViewListener
+ ast.adrs.va.Utils.TouchImageView$PrivateOnTouchListener
+ ast.adrs.va.Utils.TouchImageView$ScaleListener
+ ast.adrs.va.Utils.TouchImageView$State
+ ast.adrs.va.Utils.TouchImageView$ZoomVariables
+ast/adrs/va/HomeAuxiliares/SuggestionListingRcvAdapter.java
+ ast.adrs.va.HomeAuxiliares.SuggestionListingRcvAdapter
+ ast.adrs.va.HomeAuxiliares.SuggestionListingRcvAdapter$ViewHolder
+ast/adrs/va/Utils/PinEntry.java
+ ast.adrs.va.Utils.PinEntry
+ ast.adrs.va.Utils.PinEntry$1
+ ast.adrs.va.Utils.PinEntry$2
+ ast.adrs.va.Utils.PinEntry$DigitView
+ ast.adrs.va.Utils.PinEntry$OnPinEnteredListener
+ ast.adrs.va.Utils.PinEntry$SavedState
+ ast.adrs.va.Utils.PinEntry$SavedState$1
+ast/adrs/va/Utils/LocaleHelper.java
+ ast.adrs.va.Utils.LocaleHelper
+ast/adrs/va/IntroAuxiliaries/FCMUtils/MyFcmListenerService.java
+ ast.adrs.va.IntroAuxiliaries.FCMUtils.MyFcmListenerService
+ast/adrs/va/Utils/GPSTracker.java
+ ast.adrs.va.Utils.GPSTracker
+ast/adrs/va/IntimateDiseaseAuxiliaries/SurveyAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.SurveyAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.SurveyAdapter$ViewHolder
+ast/adrs/va/IntroAuxiliaries/DModel_District.java
+ ast.adrs.va.IntroAuxiliaries.DModel_District
+ast/adrs/va/Utils/CheckInternetConnection.java
+ ast.adrs.va.Utils.CheckInternetConnection
+ ast.adrs.va.Utils.CheckInternetConnection$1
+ ast.adrs.va.Utils.CheckInternetConnection$ConnectionCheckRunnable
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_GetSpices.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_GetSpices
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_GetSpices$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_GetSpices$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_GetSpices$ResponseModel$Result
+ast/adrs/va/HomeAuxiliares/MyRecyclerAdapter.java
+ ast.adrs.va.HomeAuxiliares.MyRecyclerAdapter
+ ast.adrs.va.HomeAuxiliares.MyRecyclerAdapter$1
+ ast.adrs.va.HomeAuxiliares.MyRecyclerAdapter$2
+ ast.adrs.va.HomeAuxiliares.MyRecyclerAdapter$ViewHolder
+ast/adrs/va/HomeAuxiliares/PerformanceRcvAdapter.java
+ ast.adrs.va.HomeAuxiliares.PerformanceRcvAdapter
+ ast.adrs.va.HomeAuxiliares.PerformanceRcvAdapter$ViewHolder
+ast/adrs/va/HomeAuxiliares/adapters/Section.java
+ ast.adrs.va.HomeAuxiliares.adapters.Section
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_Get_PerformanceEmployee.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_PerformanceEmployee
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_PerformanceEmployee$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_PerformanceEmployee$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_PerformanceEmployee$ResponseModel$Result
+ast/adrs/va/Utils/JustifyTextView.java
+ ast.adrs.va.Utils.JustifyTextView
+ast/adrs/va/IntimateDiseaseAuxiliaries/DModel_FarmerAnimalIntimateDiseaseRepoty.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.DModel_FarmerAnimalIntimateDiseaseRepoty
+ast/adrs/va/HomeAuxiliares/adapters/SectionStateChangeListener.java
+ ast.adrs.va.HomeAuxiliares.adapters.SectionStateChangeListener
+ast/adrs/va/HomeAuxiliares/MyFarmFragment.java
+ ast.adrs.va.HomeAuxiliares.MyFarmFragment
+ ast.adrs.va.HomeAuxiliares.MyFarmFragment$1
+ ast.adrs.va.HomeAuxiliares.MyFarmFragment$2
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Save_GetFarmerByCNIC.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_GetFarmerByCNIC
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_GetFarmerByCNIC$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_GetFarmerByCNIC$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_GetFarmerByCNIC$ResponseModel$Result
+ast/adrs/va/IntroAuxiliaries/VerificationFragment_VA.java
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA$1
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA$2
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA$3
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA$4
+ ast.adrs.va.IntroAuxiliaries.VerificationFragment_VA$5
+ast/adrs/va/Utils/GifView.java
+ ast.adrs.va.Utils.GifView
+ast/adrs/va/IntroAuxiliaries/CompleteFarmerProfile.java
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$1
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$2
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$3
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$4
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$5
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$6
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$7
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$8
+ ast.adrs.va.IntroAuxiliaries.CompleteFarmerProfile$9
+ast/adrs/va/IntroAuxiliaries/MyProfileFragment.java
+ ast.adrs.va.IntroAuxiliaries.MyProfileFragment
+ ast.adrs.va.IntroAuxiliaries.MyProfileFragment$1
+ ast.adrs.va.IntroAuxiliaries.MyProfileFragment$2
+ ast.adrs.va.IntroAuxiliaries.MyProfileFragment$3
+ast/adrs/va/IntroAuxiliaries/SignInVAFragment.java
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$1
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$10
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$11
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$2
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$3
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$4
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$5
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$6
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$7
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$8
+ ast.adrs.va.IntroAuxiliaries.SignInVAFragment$9
+ast/adrs/va/ParentFragments/WebServices/Intro_WebHit_Post_SubscribeEmail.java
+ ast.adrs.va.ParentFragments.WebServices.Intro_WebHit_Post_SubscribeEmail
+ ast.adrs.va.ParentFragments.WebServices.Intro_WebHit_Post_SubscribeEmail$1
+ast/adrs/va/IntimateDiseaseAuxiliaries/WebServices/Home_WebHit_Post_DiseaseByFarmer.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_DiseaseByFarmer
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_DiseaseByFarmer$1
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_DiseaseByFarmer$ResponseModel
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_DiseaseByFarmer$ResponseModel$Result
+ast/adrs/va/Utils/IAdapterCallback.java
+ ast.adrs.va.Utils.IAdapterCallback
+ast/adrs/va/IntimateDiseaseAuxiliaries/WebServices/Home_WebHit_Post_GenerateDiseaseIntimationReport.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_GenerateDiseaseIntimationReport
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_GenerateDiseaseIntimationReport$1
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_GenerateDiseaseIntimationReport$ResponseModel
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_GenerateDiseaseIntimationReport$ResponseModel$Result
+ast/adrs/va/Utils/ProgressDilogue.java
+ ast.adrs.va.Utils.ProgressDilogue
+ ast.adrs.va.Utils.ProgressDilogue$CustomIOSTransparentProgressDialog
+ast/adrs/va/HomeAuxiliares/MessageFragment.java
+ ast.adrs.va.HomeAuxiliares.MessageFragment
+ ast.adrs.va.HomeAuxiliares.MessageFragment$1
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_SignUp_VA.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_VA
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_VA$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_VA$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_VA$ResponseModel$Result
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_VA$ResponseModel$User
+ast/adrs/va/Utils/SmsReceiver.java
+ ast.adrs.va.Utils.SmsReceiver
+ast/adrs/va/Utils/DModel_PaginationInfo.java
+ ast.adrs.va.Utils.DModel_PaginationInfo
+ast/adrs/va/BuildConfig.java
+ ast.adrs.va.BuildConfig
+ast/adrs/va/HomeAuxiliares/Pioneer.java
+ ast.adrs.va.HomeAuxiliares.Pioneer
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Token.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Token
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Token$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Token$ResponseModel
+ast/adrs/va/Utils/RoundedCornerImageView.java
+ ast.adrs.va.Utils.RoundedCornerImageView
+ast/adrs/va/IntroAuxiliaries/DModelUserData.java
+ ast.adrs.va.IntroAuxiliaries.DModelUserData
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Get_All_Designations.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Designations
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Designations$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Designations$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Designations$ResponseModel$Result
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Verify_PinCode_VA.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Verify_PinCode_VA
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Verify_PinCode_VA$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Verify_PinCode_VA$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Verify_PinCode_VA$ResponseModel$Result
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Verify_PinCode_VA$ResponseModel$User
+ast/adrs/va/IntroAuxiliaries/AnimalPopulationRcvAdapter.java
+ ast.adrs.va.IntroAuxiliaries.AnimalPopulationRcvAdapter
+ ast.adrs.va.IntroAuxiliaries.AnimalPopulationRcvAdapter$ViewHolder
+ast/adrs/va/Utils/CustomAlertDialog.java
+ ast.adrs.va.Utils.CustomAlertDialog
+ast/adrs/va/IntroAuxiliaries/DModelNewUser.java
+ ast.adrs.va.IntroAuxiliaries.DModelNewUser
+ast/adrs/va/Utils/AppConstt.java
+ ast.adrs.va.Utils.AppConstt
+ ast.adrs.va.Utils.AppConstt$ActvtyTag
+ ast.adrs.va.Utils.AppConstt$AppLang
+ ast.adrs.va.Utils.AppConstt$AppRole
+ ast.adrs.va.Utils.AppConstt$AppStates
+ ast.adrs.va.Utils.AppConstt$CalculationType
+ ast.adrs.va.Utils.AppConstt$DeviceManufacturer
+ ast.adrs.va.Utils.AppConstt$EventStatus
+ ast.adrs.va.Utils.AppConstt$FragTag
+ ast.adrs.va.Utils.AppConstt$INTRO_ToolbarStates
+ ast.adrs.va.Utils.AppConstt$IntentPreference
+ ast.adrs.va.Utils.AppConstt$LocUpdate
+ ast.adrs.va.Utils.AppConstt$MsgError
+ ast.adrs.va.Utils.AppConstt$NetworkMsg
+ ast.adrs.va.Utils.AppConstt$Notifications
+ ast.adrs.va.Utils.AppConstt$OtpMessages
+ ast.adrs.va.Utils.AppConstt$ServerStatus
+ ast.adrs.va.Utils.AppConstt$ServerUrl
+ ast.adrs.va.Utils.AppConstt$ToastTimeOut
+ ast.adrs.va.Utils.AppConstt$ToolbarState
+ ast.adrs.va.Utils.AppConstt$UserType
+ ast.adrs.va.Utils.AppConstt$ViewPagerState
+ ast.adrs.va.Utils.AppConstt$guestAuth
+ast/adrs/va/IntroAuxiliaries/SpinnerAdapter.java
+ ast.adrs.va.IntroAuxiliaries.SpinnerAdapter
+ ast.adrs.va.IntroAuxiliaries.SpinnerAdapter$ViewHolder
+ast/adrs/va/ParentFragments/WebServices/Home_WebHit_Get_Contact_us.java
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Get_Contact_us
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Get_Contact_us$1
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Get_Contact_us$ResponseModel
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Get_Contact_us$ResponseModel$Data
+ast/adrs/va/HomeAuxiliares/MessagesListingRcvAdapter.java
+ ast.adrs.va.HomeAuxiliares.MessagesListingRcvAdapter
+ ast.adrs.va.HomeAuxiliares.MessagesListingRcvAdapter$ViewHolder
+ast/adrs/va/Utils/IOnRecyclerItemClickListener.java
+ ast.adrs.va.Utils.IOnRecyclerItemClickListener
+ast/adrs/va/Utils/FileDownloader.java
+ ast.adrs.va.Utils.FileDownloader
+ast/adrs/va/Utils/RModel_Error.java
+ ast.adrs.va.Utils.RModel_Error
+ast/adrs/va/MyApplication.java
+ ast.adrs.va.MyApplication
+ast/adrs/va/IntimateDiseaseAuxiliaries/Sign_SymptomsFragment.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.Sign_SymptomsFragment
+ast/adrs/va/Utils/CustomToast.java
+ ast.adrs.va.Utils.CustomToast
+ast/adrs/va/IntroAuxiliaries/DModel_Animals.java
+ ast.adrs.va.IntroAuxiliaries.DModel_Animals
+ast/adrs/va/IntroAuxiliaries/DModel_Cities.java
+ ast.adrs.va.IntroAuxiliaries.DModel_Cities
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_POST_FarmFarm_GetByFarmerID.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarm_GetByFarmerID
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarm_GetByFarmerID$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarm_GetByFarmerID$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarm_GetByFarmerID$ResponseModel$Result
+ast/adrs/va/Utils/IWebCallback.java
+ ast.adrs.va.Utils.IWebCallback
+ast/adrs/va/IntimateDiseaseAuxiliaries/GenerateReportIntemationFragment.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.GenerateReportIntemationFragment
+ ast.adrs.va.IntimateDiseaseAuxiliaries.GenerateReportIntemationFragment$1
+ast/adrs/va/IntroActivity.java
+ ast.adrs.va.IntroActivity
+ast/adrs/va/AppConfig.java
+ ast.adrs.va.AppConfig
+ ast.adrs.va.AppConfig$1
+ ast.adrs.va.AppConfig$2
+ ast.adrs.va.AppConfig$3
+ ast.adrs.va.AppConfig$4
+ ast.adrs.va.AppConfig$5
+ ast.adrs.va.AppConfig$6
+ ast.adrs.va.AppConfig$7
+ ast.adrs.va.AppConfig$8
+ ast.adrs.va.AppConfig$9
+ast/adrs/va/IntimateDiseaseAuxiliaries/DiseaseSummeryFarmerFragmentRcvAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.DiseaseSummeryFarmerFragmentRcvAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.DiseaseSummeryFarmerFragmentRcvAdapter$ViewHolder
+ast/adrs/va/Utils/RModel_onFailureError.java
+ ast.adrs.va.Utils.RModel_onFailureError
+ ast.adrs.va.Utils.RModel_onFailureError$Errors
+ast/adrs/va/IntimateDiseaseAuxiliaries/listIssuesRcvAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.listIssuesRcvAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.listIssuesRcvAdapter$ViewHolder
+ast/adrs/va/HomeAuxiliares/adapters/SectionedExpandableGridAdapter.java
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableGridAdapter
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableGridAdapter$1
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableGridAdapter$2
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableGridAdapter$3
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableGridAdapter$ViewHolder
+ast/adrs/va/HomeAuxiliares/SpicesTypeRcvAdapter.java
+ ast.adrs.va.HomeAuxiliares.SpicesTypeRcvAdapter
+ ast.adrs.va.HomeAuxiliares.SpicesTypeRcvAdapter$ViewHolder
+ast/adrs/va/IntimateDiseaseAuxiliaries/DiseaseFragment.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.DiseaseFragment
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_SignUp_Farmer.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_Farmer
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_Farmer$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_Farmer$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_Farmer$ResponseModel$Result
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_SignUp_Farmer$ResponseModel$UserViewModel
+ast/adrs/va/IntroAuxiliaries/SplashFragment.java
+ ast.adrs.va.IntroAuxiliaries.SplashFragment
+ ast.adrs.va.IntroAuxiliaries.SplashFragment$1
+ ast.adrs.va.IntroAuxiliaries.SplashFragment$1$1
+ast/adrs/va/Utils/CircleAnimationUtil.java
+ ast.adrs.va.Utils.CircleAnimationUtil
+ ast.adrs.va.Utils.CircleAnimationUtil$1
+ ast.adrs.va.Utils.CircleAnimationUtil$1$1
+ ast.adrs.va.Utils.CircleAnimationUtil$1$2
+ast/adrs/va/HomeAuxiliares/adapters/SectionedExpandableLayoutHelper.java
+ ast.adrs.va.HomeAuxiliares.adapters.SectionedExpandableLayoutHelper
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_Farmer_Suggestions.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Farmer_Suggestions
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Farmer_Suggestions$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Farmer_Suggestions$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Farmer_Suggestions$ResponseModel$Result
+ast/adrs/va/IntimateDiseaseAuxiliaries/SpinnerFarmAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.SpinnerFarmAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.SpinnerFarmAdapter$ViewHolder
+ast/adrs/va/IntroAuxiliaries/SpinnerDistrictAdapter.java
+ ast.adrs.va.IntroAuxiliaries.SpinnerDistrictAdapter
+ ast.adrs.va.IntroAuxiliaries.SpinnerDistrictAdapter$ViewHolder
+ast/adrs/va/HomeAuxiliares/SearchFarmerProfileByVA.java
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$1
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$2
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$3
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$4
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$5
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$6
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$7
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$8
+ ast.adrs.va.HomeAuxiliares.SearchFarmerProfileByVA$9
+ast/adrs/va/Utils/IDialogCallback.java
+ ast.adrs.va.Utils.IDialogCallback
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_Messages_of_Employee.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Messages_of_Employee
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Messages_of_Employee$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Messages_of_Employee$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Messages_of_Employee$ResponseModel$Result
+ast/adrs/va/IntimateDiseaseAuxiliaries/WebServices/Home_WebHit_Post_Get_Report_By_ReportID.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_Get_Report_By_ReportID
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_Get_Report_By_ReportID$1
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_Get_Report_By_ReportID$ResponseModel
+ ast.adrs.va.IntimateDiseaseAuxiliaries.WebServices.Home_WebHit_Post_Get_Report_By_ReportID$ResponseModel$Result
+ast/adrs/va/ParentFragments/WebServices/Home_WebHit_Post_Notification.java
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Notification
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Notification$1
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Notification$ResponseModel
+ast/adrs/va/Utils/HumanReadableTime.java
+ ast.adrs.va.Utils.HumanReadableTime
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_VerifyPinCode_FA.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_VerifyPinCode_FA
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_VerifyPinCode_FA$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_VerifyPinCode_FA$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_VerifyPinCode_FA$ResponseModel$Result
+ast/adrs/va/HomeAuxiliares/SuggestionFragment.java
+ ast.adrs.va.HomeAuxiliares.SuggestionFragment
+ ast.adrs.va.HomeAuxiliares.SuggestionFragment$1
+ ast.adrs.va.HomeAuxiliares.SuggestionFragment$2
+ast/adrs/va/IntimateDiseaseAuxiliaries/MessageDiseaseReportFragment.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.MessageDiseaseReportFragment
+ ast.adrs.va.IntimateDiseaseAuxiliaries.MessageDiseaseReportFragment$1
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Add_Farm_Population.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm_Population
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm_Population$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm_Population$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm_Population$ResponseModel$Result
+ast/adrs/va/IntimateDiseaseAuxiliaries/IntimateDiseaseSumeraizeFragment.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$1
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$2
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$3
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$4
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$5
+ ast.adrs.va.IntimateDiseaseAuxiliaries.IntimateDiseaseSumeraizeFragment$6
+ast/adrs/va/Utils/CircleStrokeImageView.java
+ ast.adrs.va.Utils.CircleStrokeImageView
+ast/adrs/va/Utils/HintSpinnerDefSelection.java
+ ast.adrs.va.Utils.HintSpinnerDefSelection
+ast/adrs/va/Utils/IBadgeUpdateListener.java
+ ast.adrs.va.Utils.IBadgeUpdateListener
+ast/adrs/va/Utils/MyLocationTracker.java
+ ast.adrs.va.Utils.MyLocationTracker
+ ast.adrs.va.Utils.MyLocationTracker$1
+ ast.adrs.va.Utils.MyLocationTracker$2
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_SuggestionByUser.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_SuggestionByUser
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_SuggestionByUser$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_SuggestionByUser$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_SuggestionByUser$ResponseModel$Result
+ast/adrs/va/Utils/HintSpinner.java
+ ast.adrs.va.Utils.HintSpinner
+ ast.adrs.va.Utils.HintSpinner$1
+ ast.adrs.va.Utils.HintSpinner$2
+ ast.adrs.va.Utils.HintSpinner$3
+ ast.adrs.va.Utils.HintSpinner$onSpinnerItemClickListener
+ast/adrs/va/IntroAuxiliaries/FarmProfileFragment.java
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment$1
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment$2
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment$3
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment$4
+ ast.adrs.va.IntroAuxiliaries.FarmProfileFragment$5
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_POST_FarmFarmPop_GetByFarmID.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmID
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmID$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmID$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmID$ResponseModel$Result
+ast/adrs/va/IntimateDiseaseAuxiliaries/AnimalSignSybmtomsRcvAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.AnimalSignSybmtomsRcvAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.AnimalSignSybmtomsRcvAdapter$1
+ ast.adrs.va.IntimateDiseaseAuxiliaries.AnimalSignSybmtomsRcvAdapter$ViewHolder
+ast/adrs/va/Utils/CustomAlertConfirmationInterface.java
+ ast.adrs.va.Utils.CustomAlertConfirmationInterface
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Get_All_Spices.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Spices
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Spices$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Spices$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Spices$ResponseModel$Result
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Save_Farmer.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_Farmer
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_Farmer$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_Farmer$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Save_Farmer$ResponseModel$Result
+ast/adrs/va/HomeAuxiliares/IntimateDiseaseFragment.java
+ ast.adrs.va.HomeAuxiliares.IntimateDiseaseFragment
+ast/adrs/va/HomeAuxiliares/WebServices/Home_WebHit_Post_Get_DiseaseDefinationDetails.java
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails$1
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails$ResponseModel
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails$ResponseModel$Diseases
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails$ResponseModel$Result
+ ast.adrs.va.HomeAuxiliares.WebServices.Home_WebHit_Post_Get_DiseaseDefinationDetails$ResponseModel$Symptoms
+ast/adrs/va/Utils/RModel_Message.java
+ ast.adrs.va.Utils.RModel_Message
+ ast.adrs.va.Utils.RModel_Message$Data
+ ast.adrs.va.Utils.RModel_Message$User
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_POST_FarmFarmPop_GetByFarmerID.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmerID
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmerID$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmerID$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmFarmPop_GetByFarmerID$ResponseModel$Result
+ast/adrs/va/Utils/CircleImageView.java
+ ast.adrs.va.Utils.CircleImageView
+ast/adrs/va/Utils/DModel_EventBooking.java
+ ast.adrs.va.Utils.DModel_EventBooking
+ast/adrs/va/IntimateDiseaseAuxiliaries/AnimalDisesaseDefinationRcvAdapter.java
+ ast.adrs.va.IntimateDiseaseAuxiliaries.AnimalDisesaseDefinationRcvAdapter
+ ast.adrs.va.IntimateDiseaseAuxiliaries.AnimalDisesaseDefinationRcvAdapter$ViewHolder
+ast/adrs/va/IntroAuxiliaries/DModel_Performance.java
+ ast.adrs.va.IntroAuxiliaries.DModel_Performance
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_POST_FarmPopulation_GetByFarmID_FarmerId.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmPopulation_GetByFarmID_FarmerId
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmPopulation_GetByFarmID_FarmerId$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmPopulation_GetByFarmID_FarmerId$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_POST_FarmPopulation_GetByFarmID_FarmerId$ResponseModel$Result
+ast/adrs/va/HomeAuxiliares/adapters/ItemClickListener.java
+ ast.adrs.va.HomeAuxiliares.adapters.ItemClickListener
+ast/adrs/va/ParentFragments/WebServices/Home_WebHit_Post_Update_User.java
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Update_User
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Update_User$1
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Update_User$ResponseModel
+ ast.adrs.va.ParentFragments.WebServices.Home_WebHit_Post_Update_User$ResponseModel$Data
+ast/adrs/va/Utils/MyLocation.java
+ ast.adrs.va.Utils.MyLocation
+ast/adrs/va/Utils/IWebPaginationCallback.java
+ ast.adrs.va.Utils.IWebPaginationCallback
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Get_All_Tehsil.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Tehsil
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Tehsil$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Tehsil$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_Tehsil$ResponseModel$Result
+ast/adrs/va/Utils/KeyEventCompat.java
+ ast.adrs.va.Utils.KeyEventCompat
+ast/adrs/va/HomeAuxiliares/DModel_Message.java
+ ast.adrs.va.HomeAuxiliares.DModel_Message
+ast/adrs/va/Utils/ConnectionChangeListener.java
+ ast.adrs.va.Utils.ConnectionChangeListener
+ast/adrs/va/Utils/IWebIndexedCallback.java
+ ast.adrs.va.Utils.IWebIndexedCallback
+ast/adrs/va/IntroAuxiliaries/FCMUtils/MyInstanceIDListenerService.java
+ ast.adrs.va.IntroAuxiliaries.FCMUtils.MyInstanceIDListenerService
+ast/adrs/va/IntroAuxiliaries/SpinnerSpicesAdapter.java
+ ast.adrs.va.IntroAuxiliaries.SpinnerSpicesAdapter
+ ast.adrs.va.IntroAuxiliaries.SpinnerSpicesAdapter$ViewHolder
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Get_All_District.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_District
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_District$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_District$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Get_All_District$ResponseModel$Result
+ast/adrs/va/Utils/RectangleImageView.java
+ ast.adrs.va.Utils.RectangleImageView
+ast/adrs/va/IntroAuxiliaries/WebServices/Intro_WebHit_Post_Add_Farm.java
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm$1
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm$ResponseModel
+ ast.adrs.va.IntroAuxiliaries.WebServices.Intro_WebHit_Post_Add_Farm$ResponseModel$Result
+ast/adrs/va/Utils/ApiMethod.java
+ ast.adrs.va.Utils.ApiMethod
+ ast.adrs.va.Utils.ApiMethod$GET
+ ast.adrs.va.Utils.ApiMethod$HEADER
+ ast.adrs.va.Utils.ApiMethod$POST
+ ast.adrs.va.Utils.ApiMethod$Patch
+ast/adrs/va/MainActivity.java
+ ast.adrs.va.MainActivity
+ ast.adrs.va.MainActivity$1
+ ast.adrs.va.MainActivity$10
+ ast.adrs.va.MainActivity$11
+ ast.adrs.va.MainActivity$2
+ ast.adrs.va.MainActivity$3
+ ast.adrs.va.MainActivity$4
+ ast.adrs.va.MainActivity$5
+ ast.adrs.va.MainActivity$6
+ ast.adrs.va.MainActivity$7
+ ast.adrs.va.MainActivity$8
+ ast.adrs.va.MainActivity$9
+ ast.adrs.va.MainActivity$9$1
+ ast.adrs.va.MainActivity$9$2
+ ast.adrs.va.MainActivity$9$2$1
+ ast.adrs.va.MainActivity$9$2$1$1
+ast/adrs/va/ParentFragments/HomeFragment.java
+ ast.adrs.va.ParentFragments.HomeFragment
+ ast.adrs.va.ParentFragments.HomeFragment$1
+ast/adrs/va/ParentFragments/LoginbackFragment.java
+ ast.adrs.va.ParentFragments.LoginbackFragment
+ ast.adrs.va.ParentFragments.LoginbackFragment$1
+ ast.adrs.va.ParentFragments.LoginbackFragment$2

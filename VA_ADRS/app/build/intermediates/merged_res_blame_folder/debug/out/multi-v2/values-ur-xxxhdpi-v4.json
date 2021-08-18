@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur-xxxhdpi-v4\\values-ur-xxxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects AST\\PunjabVA_ADRS\\VA_ADRS\\app\\src\\main\\res\\values-ur-xxxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,8,6,4,5,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "19,66,301,209,114,162,255",
+                        "endColumns": "45,46,45,44,46,45,44",
+                        "endOffsets": "60,108,342,249,156,203,295"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,148,194,239,286,332",
+                        "endColumns": "45,46,45,44,46,45,44",
+                        "endOffsets": "96,143,189,234,281,327,372"
+                    }
+                }
+            ]
+        }
+    ]
+}

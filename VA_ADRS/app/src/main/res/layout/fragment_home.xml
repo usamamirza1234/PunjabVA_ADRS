@@ -111,7 +111,7 @@
                                     android:padding="10dp">
 
 
-                                    <ast.adrs.farmer.Utils.CircleImageView
+                                    <ast.adrs.va.Utils.CircleImageView
                                         android:id="@+id/frg_complete_profile_imv_profile"
                                         android:layout_width="50dp"
                                         android:layout_height="50dp"
